@@ -18,5 +18,5 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 
 ### Marketing Analytics
-* Customer Churn Prediction 2020 [[link]](https://github.com/idfelipemalatesta/MachineLearning/blob/main/Fraud%20Detection/E-commerce%20Fraud%20Detection/e-commerce_transactions.ipynb)
+* Customer Churn Prediction 2020 [[link]](https://github.com/idfelipemalatesta/MachineLearning/blob/main/Marketing%20Analytics/Customer%20Churn%20Prediction%202020/customer_churn.ipynb)
 <img src="https://github.com/idfelipemalatesta/MachineLearning/assets/105217068/241fffa4-e861-451d-99cf-6f0cedfade34)" width="600" height="150">
