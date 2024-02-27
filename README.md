@@ -6,7 +6,7 @@
   <img src="banner.png" >
 </p>
 
-## Projetos:
+## Projetos (Em Atualização):
 
 ### Aprendizado Supervisionado Classificação: 
 * **Projeto 1:** ahttps://bit.ly/2L2cMwy
