@@ -8,20 +8,6 @@
 
 ## Projetos (Em Atualização):
 
-### Aprendizado Supervisionado Classificação: 
-* **Projeto 1:** ahttps://bit.ly/2L2cMwy
-* **Projeto 2:** ahttps://bit.ly/2Li5pzY
-* **Projeto 3:** ahttps://bit.ly/2Ubr5SH
-### Aprendizado Supervisionado Regressão: 
-* **Projeto 1:** ahttps://bit.ly/2L2cMwy
-* **Projeto 2:** ahttps://bit.ly/2Li5pzY
-* **Projeto 3:** ahttps://bit.ly/2Ubr5SH
-### Aprendizado Não Supervisionado:
-* **Projeto 1:** ahttps://bit.ly/31KWSMN
-* **Projeto 2:** ahttps://bit.ly/2UbRhws
-### Algoritmo de Regras de Associação:
-* **Projeto:** ahttps://bit.ly/31KWSMN
-### Previsão com Time Series
-* **Projeto:** ahttps://bit.ly/31KWSMN
+* **Projeto 1:** 
   
 ---
