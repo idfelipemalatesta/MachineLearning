@@ -8,6 +8,6 @@
 
 ## Projetos (Em Atualização):
 
-* **Projeto 1:** 
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3wOBs6l
   
 ---
