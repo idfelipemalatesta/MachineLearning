@@ -9,7 +9,7 @@
 
 Formado em Administração de Banco de Dados e Business Intelligence pela FIAP e atualmente Pós-Graduando na área de Ciência de Dados pela Universidade Presbiteriana Mackenzie. Estudo Ciência de Dados e Machine Learning a mais de 2 anos e meio e aqui está muito Portifólio de Projetos que envolve: Análise Estatística de Dados, Análise Exploratória de Dados, Engenharia de Atributos, Pré-Processamento, Modelagem e Otimização de Hyperparametros
 
-**Background in:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Imblearn, Xgboost, LightGBM, Catboost
+**Background in:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Imblearn, XGBoost, LightGBM, Catboost
 
 ## Projetos:
 Estou reformatando meus projetos e publicando conforme concluídos:
