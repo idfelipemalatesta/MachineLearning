@@ -15,5 +15,6 @@ Formado em Administração de Banco de Dados e Business Intelligence pela FIAP e
 Estou reformatando meus projetos e publicando conforme concluídos:
 
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3wOBs6l
+* **Detecção de Churn para Empresa de Telecomunicação:** https://bit.ly/49VhvcJ
   
 ---
