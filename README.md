@@ -16,5 +16,6 @@ Estou reformatando meus projetos e publicando conforme concluídos:
 
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3wOBs6l
 * **Detecção de Churn para Empresa de Telecomunicação:** https://bit.ly/49VhvcJ
+* **Previsão de tarifa de táxi de Nova Iorque:** https://bit.ly/4cyTUQK
   
 ---
