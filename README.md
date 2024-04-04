@@ -14,12 +14,13 @@ Formado em Administração de Banco de Dados e Business Intelligence pela FIAP e
 * Feature Engineering, Remoção de Outliers com Métodos Estatísticos, Normalização e Padronização, Balanceamento dos dados
 *  Modelos de Classificação e Regressão, Análise da Matriz de Confusão: True Negative, False Positive, False Negative e True Positive
 * Otimização de Hiperparâmetros
+* Métricas de Avaliação: Root Mean Square Error (RMSE), Precision, Recall, ROC AUC
 
 ## Projetos:
 Estou reformatando meus projetos e publicando conforme concluídos:
 
-* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3wOBs6l
-* **Detecção de Churn para Empresa de Telecomunicação:** https://bit.ly/49VhvcJ
 * **Previsão de tarifa de táxi de Nova Iorque:** https://bit.ly/4cyTUQK
+* **Detecção de Churn para Empresa de Telecomunicação:** https://bit.ly/49VhvcJ
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3wOBs6l
   
 ---
