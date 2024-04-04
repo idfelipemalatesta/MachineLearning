@@ -10,7 +10,7 @@
 Formado em Administração de Banco de Dados e Business Intelligence pela FIAP e atualmente Pós-Graduando na área de Ciência de Dados pela Universidade Presbiteriana Mackenzie. Estudo Ciência de Dados e Machine Learning a mais de 2 anos e meio. 
 
 **Os projetos apresentam técnicas como**: 
-* Análise Estatísticas e Exploratória dos Dados, Análise de Coordenadas de Mapa (latitude e longitude)
+* Amostragem Aleatória Simples, Análise Estatísticas e Exploratória dos Dados, Análise de Coordenadas de Mapa (latitude e longitude)
 * Feature Engineering, Normalização e Padronização, Balanceamento dos dados, Modelos de Classificação e Regressão
 * Análise da Matriz de Confusão: True Negative, False Positive, False Negative e True Positive
 * Otimização de Hiperparâmetros
