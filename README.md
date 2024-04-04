@@ -7,9 +7,13 @@
 # Felipe Malatesta
 <sub>*Data Scientist*</sub>
 
-Formado em Administração de Banco de Dados e Business Intelligence pela FIAP e atualmente Pós-Graduando na área de Ciência de Dados pela Universidade Presbiteriana Mackenzie. Estudo Ciência de Dados e Machine Learning a mais de 2 anos e meio e aqui está muito Portifólio de Projetos que envolve: Análise Estatística de Dados, Análise Exploratória de Dados, Engenharia de Atributos, Pré-Processamento, Modelagem e Otimização de Hyperparametros
+Formado em Administração de Banco de Dados e Business Intelligence pela FIAP e atualmente Pós-Graduando na área de Ciência de Dados pela Universidade Presbiteriana Mackenzie. Estudo Ciência de Dados e Machine Learning a mais de 2 anos e meio. 
 
-**Background in:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Imblearn, XGBoost, LightGBM, Catboost
+**Os projetos apresentam técnicas como**: 
+* Análise Estatísticas e Exploratória dos Dados, Análise de Coordenadas de Mapa (latitude e longitude)
+* Feature Engineering, Normalização e Padronização, Balanceamento dos dados, Modelos de Classificação e Regressão
+* Análise da Matriz de Confusão: True Negative, False Positive, False Negative e True Positive
+* Otimização de Hiperparâmetros
 
 ## Projetos:
 Estou reformatando meus projetos e publicando conforme concluídos:
