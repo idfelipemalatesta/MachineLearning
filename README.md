@@ -37,7 +37,7 @@ O modelo construído identifica corretamente 82% (recall) dos clientes que cance
 Comparação do Desempenho dos Modelos baseados em Árvore:<br>
 <img src="images/desempenho_modelos.png" width="100%" height="05%">
 
-Métrica ROC AUC e Precision-recall:<br>
+Métricas ROC AUC e Precision-recall:<br>
 <img src="images/curvas_metric.png">
 
 
