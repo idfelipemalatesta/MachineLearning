@@ -21,8 +21,8 @@ O modelo de Machine Learning construído que captou melhor a tendência de venda
 Construí uma margem de erro que garante uma acurácia de 71% nas projeções. O erro do modelo está em torno de 1631.58 unidades de vendas, com uma média de vendas de 15981.25.
 
 Análise dos Resíduos:<br>
-<img src="images/real_predict.png" width="70%" height="100%">
+<img src="images/real_predict.png">
 
 Forecast do Modelo:<br>
-<img src="images/results_serie_temporal.png" width="70%" height="100%">
+<img src="images/results_serie_temporal.png">
 
