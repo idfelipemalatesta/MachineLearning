@@ -21,6 +21,7 @@ Segmentação dos Clientes em Clusters:<br>
 
 Visualização dos Clusters por RFM:
 
+----------------------------------------------
 
 ### Previsão de Vendas (Forecast)
 
@@ -36,6 +37,8 @@ Análise dos Resíduos:<br>
 
 Forecast do Modelo:<br>
 <img src="images/results_serie_temporal.png">
+
+-------------------------------------------------
 
 ### Previsão de Cancelamento de Serviço (Churn)
 
