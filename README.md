@@ -26,3 +26,18 @@ Análise dos Resíduos:<br>
 Forecast do Modelo:<br>
 <img src="images/results_serie_temporal.png">
 
+### Previsão de Cancelamento de Serviço (Churn)
+
+Este é um projeto que possibilita entender a probabilidade de um cliente descontinuar o uso de um serviço. Com essa informação podemos tentar reverter essa possível perda.
+
+O projeto apresenta uma variável target desbalanceada. A métrica de avaliação será **recall > 80%**. A métrica analisa justamente o erro do modelo nos clientes que já cancelaram o serviço anteriormente.
+
+O modelo construído identifica corretamente 82% (recall) dos clientes que cancelaram o serviço.
+
+Comparação do Desempenho dos Modelos baseados em Árvore:<br>
+<img src="images/desempenho_modelos.png" width="100%" height="05%">
+
+Métrica ROC AUC e Precision-recall:<br>
+<img src="images/curvas_metric.png">
+
+
