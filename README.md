@@ -9,7 +9,18 @@
 ### Segmentação de Clientes (Clustering)
 
 Este é um projeto que visa segmentar os clientes em grupos com comportamentos de compras
-semelhantes.Utilizei a técnica RFMe Clusterização para a solução. Link direto: https://bit.ly/4hne5Uh
+semelhantes.Utilizei a técnica RFM e Clusterização para a solução. Link direto: https://bit.ly/4hne5Uh
+
+O projeto gerou 3 relatórios analíticos contendo:
+1. Clientes agrupados por RFM e seus devidos clusters/grupos.
+2. Análise, interpretação e sugestões dos Clusters.
+3. Tabela contendo a média dos valores de RFM por cluster.
+
+Segmentação dos Clientes em Clusters:<br>
+<img src="images/clientes_clusters_3d.png">
+
+Visualização dos Clusters por RFM:
+
 
 ### Previsão de Vendas (Forecast)
 
